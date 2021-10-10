@@ -1,0 +1,11 @@
+
+
+{
+	"ip":"StarRoZ.aternos.me",
+	"port": "18577",
+	"name": "Star",
+	"auto-night-skip":"false"
+        "login-enable":"true",
+        "register-cmd":"/register",
+        "login-cmd":"/login",
+}
